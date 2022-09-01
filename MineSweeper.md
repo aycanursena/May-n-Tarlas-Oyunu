@@ -1,3 +1,4 @@
+```
 package MayinTarlasiOyunu;
 import java.util.Scanner;
 
@@ -207,3 +208,4 @@ public class MineSweeper {
        }
     }
 }
+```
